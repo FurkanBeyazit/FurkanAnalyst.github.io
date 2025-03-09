@@ -4687,3 +4687,13 @@ input, select, textarea {
 		}
 
 	}
+	.tech-tag {
+		background: #1e252d; /* Koyu arka plan rengi */
+		color: #ffffff; /* Beyaz yazı rengi */
+		padding: 5px 10px; /* İç boşluk (padding) */
+		border-radius: 5px; /* Kenarları yuvarlatma */
+		font-size: 0.85em; /* Yazı boyutu */
+		font-weight: 600; /* Kalın yazı */
+		display: inline-block; /* Etiketlerin yan yana durmasını sağlar */
+		margin: 3px 2px; /* Etiketler arası boşluk */
+	}
